@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0a0a0f;
+  color: #ffffff;
+}
+
+header {
+  text-align: center;
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #111, #1a1a2e);
+}
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  opacity: 0.8;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  background: #6cf;
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.alpha-list {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.alpha-card {
+  background: #121212;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+.alpha-card h3 {
+  margin-top: 0;
+}
+
+.alpha-tag {
+  display: inline-block;
+  background: #222;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  margin-right: 6px;
+  opacity: 0.8;
+}
