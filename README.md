@@ -4,6 +4,8 @@
 
 Firsta is a premium alpha marketplace where top crypto researchers share early insights, airdrop plays, and DeFi strategies before they go public.
 
+CA Pump.fun : EJwkXJceNTkjQLBQTaNeKJmCXi4CgDgBmfcqyiHapump
+
 ## 🚀 About Firsta
 
 Firsta connects serious crypto traders, airdrop hunters, and DeFi strategists with elite researchers who surface high-conviction opportunities early — before they become mainstream.
